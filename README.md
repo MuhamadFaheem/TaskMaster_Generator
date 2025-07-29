@@ -12,7 +12,7 @@ Place input Excel files into the `input/` folder. The Excel must contain the fol
 
 | OU   | Estate | Total Ha | Blok       | Jml task |
 |------|--------|----------|------------|----------|
-| GIDE | ID     | 30.95    | SID1P01AA  | 5        |
+| TEST | ES     | 30.95    | ABC1P01AA  | 5        |
 
 - **Divisi** is automatically derived from the 3rd character of the `Blok` code  
   (e.g., `SID1P01AA` → Divisi = `1`)
