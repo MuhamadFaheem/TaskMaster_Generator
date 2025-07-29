@@ -14,9 +14,9 @@ Place input Excel files into the `input/` folder. The Excel must contain the fol
 |------|--------|----------|------------|----------|
 | TEST | ES     | 30.95    | ABC1P01AA  | 5        |
 
-- **Divisi** is automatically derived from the 3rd character of the `Blok` code  
-  (e.g., `SID1P01AA` → Divisi = `1`)
-- No need to manually input Divisi
+- **Division** is automatically derived from the 3rd character of the `Blok` code  
+  (e.g., `ABC1P01AA` → Division = `1`)
+- No need to manually input Division
 
 ---
 
