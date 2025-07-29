@@ -1,0 +1,14 @@
+# Ignore build files
+/target/
+*.class
+
+# Ignore IDE configs
+.idea/
+*.iml
+
+# Ignore logs or temp
+*.log
+
+note.txt
+
+.vscode
